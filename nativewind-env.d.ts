@@ -1,0 +1,1 @@
+/// npx <reference types="nativewind/types" />
