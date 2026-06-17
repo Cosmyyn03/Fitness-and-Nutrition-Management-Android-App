@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Aplicatie android pentru gestionarea programelor de fitness si alimentatie",
-    "slug": "Aplicatie android pentru gestionarea programelor de fitness si alimentatie",
+    "slug": "fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.cosmyyn03.fitnessapp"
     },
     "web": {
       "bundler": "metro",
@@ -32,10 +33,19 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-sqlite"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "53051bf3-50cf-4f93-8535-c62a1e7f77d9"
+      }
     }
   }
 }
