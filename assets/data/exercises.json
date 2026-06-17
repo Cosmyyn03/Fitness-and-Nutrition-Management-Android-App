@@ -1,0 +1,1090 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Înot",
+      "type": "cardio",
+      "muscles": ["tot corpul"]
+    },
+    {
+      "id": 2,
+      "name": "Alergat",
+      "type": "cardio",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 3,
+      "name": "Ciclism",
+      "type": "cardio",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 4,
+      "name": "Canotaj",
+      "type": "cardio",
+      "muscles": ["spate", "picioare", "brațe"]
+    },
+    {
+      "id": 5,
+      "name": "Sărit coarda",
+      "type": "cardio",
+      "muscles": ["picioare", "gambiere", "umeri"]
+    },
+    {
+      "id": 6,
+      "name": "Urcat scări",
+      "type": "cardio",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 7,
+      "name": "Bicicletă eliptică",
+      "type": "cardio",
+      "muscles": ["picioare", "fesieri", "brațe"]
+    },
+    {
+      "id": 8,
+      "name": "Hiking",
+      "type": "cardio",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 9,
+      "name": "Barbell Incline Bench Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri", "triceps"]
+    },
+    {
+      "id": 10,
+      "name": "Împins cu bara plan orizontal",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri", "triceps"]
+    },
+    {
+      "id": 11,
+      "name": "Deadlift",
+      "type": "weightlifting",
+      "muscles": ["spate", "picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 12,
+      "name": "Genuflexiune",
+      "type": "bodyweight",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 13,
+      "name": "Împins cu bara deasupra capului",
+      "type": "weightlifting",
+      "muscles": ["umeri", "triceps"]
+    },
+    {
+      "id": 14,
+      "name": "Ramat cu bara",
+      "type": "weightlifting",
+      "muscles": ["spate", "biceps"]
+    },
+    {
+      "id": 15,
+      "name": "Ridicări la biceps",
+      "type": "weightlifting",
+      "muscles": ["biceps"]
+    },
+    {
+      "id": 16,
+      "name": "Extensii Triceps cu sfoara",
+      "type": "weightlifting",
+      "muscles": ["triceps"]
+    },
+    {
+      "id": 17,
+      "name": "Tracțiuni la helcometru",
+      "type": "weightlifting",
+      "muscles": ["spate", "biceps"]
+    },
+    {
+      "id": 18,
+      "name": "Presă Picioare",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 19,
+      "name": "Deadlift românesc",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "spate"]
+    },
+    {
+      "id": 20,
+      "name": "Flotări",
+      "type": "bodyweight exercise",
+      "muscles": ["piept", "umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 21,
+      "name": "Tracțiuni",
+      "type": "bodyweight exercise",
+      "muscles": ["spate", "biceps", "mușchi abdominali"]
+    },
+    {
+      "id": 22,
+      "name": "Dips-uri",
+      "type": "bodyweight exercise",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 23,
+      "name": "Genuflexiuni cu greutatea corpului",
+      "type": "bodyweight exercise",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 24,
+      "name": "Fandări",
+      "type": "bodyweight exercise",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 25,
+      "name": "Planșa",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "umeri"]
+    },
+    {
+      "id": 26,
+      "name": "Burpees",
+      "type": "bodyweight exercise",
+      "muscles": ["tot corpul"]
+    },
+    {
+      "id": 27,
+      "name": "Mountain Climbers",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "picioare", "umeri"]
+    },
+    {
+      "id": 28,
+      "name": "Flotări in mâini",
+      "type": "bodyweight exercise",
+      "muscles": ["umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 29,
+      "name": "Muscle Ups",
+      "type": "bodyweight exercise",
+      "muscles": ["spate", "biceps", "piept", "triceps"]
+    },
+    {
+      "id": 30,
+      "name": "Mersul Fermierului",
+      "type": "weighted cardio",
+      "muscles": ["antebrațe", "mușchi abdominali", "umeri", "picioare"]
+    },
+    {
+      "id": 31,
+      "name": "Sled Push",
+      "type": "weighted cardio",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali", "umeri"]
+    },
+    {
+      "id": 32,
+      "name": "Kettlebell Swings",
+      "type": "weighted cardio",
+      "muscles": ["fesieri", "coapse posterioare", "mușchi abdominali", "umeri"]
+    },
+    {
+      "id": 33,
+      "name": "Battle Ropes",
+      "type": "weighted cardio",
+      "muscles": ["umeri", "brațe", "mușchi abdominali"]
+    },
+    {
+      "id": 34,
+      "name": "Mersul cu vestă cu greutate",
+      "type": "weighted cardio",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 35,
+      "name": "Cărat nisip",
+      "type": "weighted cardio",
+      "muscles": ["mușchi abdominali", "spate", "picioare"]
+    },
+    {
+      "id": 36,
+      "name": "Rucking",
+      "type": "weighted cardio",
+      "muscles": ["picioare", "mușchi abdominali", "spate"]
+    },
+    {
+      "id": 37,
+      "name": "Săritul cu coarda cu greutate",
+      "type": "weighted cardio",
+      "muscles": ["picioare", "umeri", "mușchi abdominali"]
+    },
+    {
+      "id": 38,
+      "name": "Urcatul pe scări cu greutate",
+      "type": "weighted cardio",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 39,
+      "name": "Flotări cu greutați",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["piept", "umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 40,
+      "name": "Tracțiuni cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["spate", "biceps", "mușchi abdominali"]
+    },
+    {
+      "id": 41,
+      "name": "Dips-uri cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 42,
+      "name": "Fandări cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 43,
+      "name": "Planșa cu greutăți",
+      "type": "weighted cardio",
+      "muscles": ["mușchi abdominali", "umeri"]
+    },
+    {
+      "id": 44,
+      "name": "Abdomene cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["mușchi abdominali"]
+    },
+    {
+      "id": 45,
+      "name": "Pistol Squats cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 46,
+      "name": "Flotări in mâini cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 47,
+      "name": "Muscle-ups cu greutăți",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["spate", "biceps", "piept", "triceps"]
+    },
+    {
+      "id": 48,
+      "name": "Sărituri pe cutie",
+      "type": "bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 49,
+      "name": "Săritură cu forfecare ",
+      "type": "cardio",
+      "muscles": ["picioare", "umeri"]
+    },
+    {
+      "id": 50,
+      "name": "High Knees",
+      "type": "cardio",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 51,
+      "name": "Bear Crawls",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "umeri", "picioare"]
+    },
+    {
+      "id": 52,
+      "name": "Mersul Crab-ului",
+      "type": "cardio",
+      "muscles": ["mușchi abdominali", "umeri", "fesieri"]
+    },
+    {
+      "id": 53,
+      "name": "Wall Sit",
+      "type": "cardio",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 54,
+      "name": "Superman Hold",
+      "type": "cardio",
+      "muscles": ["spate", "fesieri"]
+    },
+    {
+      "id": 55,
+      "name": "Ridicări de picioare la bară",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "șolduri"]
+    },
+    {
+      "id": 56,
+      "name": "Bench Dip",
+      "type": "bodyweight exercise",
+      "muscles": ["triceps", "umeri"]
+    },
+    {
+      "id": 57,
+      "name": "Inverted Row",
+      "type": "bodyweight exercise",
+      "muscles": ["spate", "biceps"]
+    },
+    {
+      "id": 58,
+      "name": "Pike Pushup",
+      "type": "bodyweight exercise",
+      "muscles": ["umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 59,
+      "name": "Deadlift pe un singur picior",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 60,
+      "name": "Genuflexiuni cu bara în spate",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 61,
+      "name": "Genuflexiuni cu bara in față",
+      "type": "weightlifting",
+      "muscles": ["tot corpul"]
+    },
+    {
+      "id": 62,
+      "name": "Snatch",
+      "type": "weightlifting",
+      "muscles": ["tot corpul"]
+    },
+    {
+      "id": 63,
+      "name": "Clean",
+      "type": "weightlifting",
+      "muscles": ["picioare", "spate", "umeri"]
+    },
+    {
+      "id": 64,
+      "name": "Jerk",
+      "type": "weightlifting",
+      "muscles": ["picioare", "umeri", "mușchi abdominali"]
+    },
+    {
+      "id": 65,
+      "name": "Bulgarian Split Squat",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 66,
+      "name": "Hack Squat",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 67,
+      "name": "Zercher Squat",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali", "brațe"]
+    },
+    {
+      "id": 68,
+      "name": "Good Morning",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "spate"]
+    },
+    {
+      "id": 69,
+      "name": "Fluturări la cablu CrossOver",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri"]
+    },
+    {
+      "id": 70,
+      "name": "Face Pull",
+      "type": "weightlifting",
+      "muscles": ["umeri", "partea superioară a spatelui"]
+    },
+    {
+      "id": 71,
+      "name": "Skull Crushers",
+      "type": "weightlifting",
+      "muscles": ["triceps"]
+    },
+    {
+      "id": 72,
+      "name": "Ridicări Preacher Biceps",
+      "type": "weightlifting",
+      "muscles": ["biceps"]
+    },
+    {
+      "id": 73,
+      "name": "Ridicări Hammer Biceps",
+      "type": "weightlifting",
+      "muscles": ["biceps", "antebrațe"]
+    },
+    {
+      "id": 74,
+      "name": "Ridicări laterale",
+      "type": "weightlifting",
+      "muscles": ["umeri"]
+    },
+    {
+      "id": 75,
+      "name": "Shrugs",
+      "type": "weightlifting",
+      "muscles": ["trapez"]
+    },
+    {
+      "id": 76,
+      "name": "Ridicări gambe",
+      "type": "weightlifting",
+      "muscles": ["gambe"]
+    },
+    {
+      "id": 77,
+      "name": "Hip Thrust",
+      "type": "weightlifting",
+      "muscles": ["fesieri", "coapse posterioare"]
+    },
+    {
+      "id": 78,
+      "name": "Russian Twist",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "oblice"]
+    },
+    {
+      "id": 79,
+      "name": "Flutter Kicks",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali", "șolduri"]
+    },
+    {
+      "id": 80,
+      "name": "V-ups",
+      "type": "bodyweight exercise",
+      "muscles": ["mușchi abdominali"]
+    },
+    {
+      "id": 81,
+      "name": "Împins cu bara declinat",
+      "type": "weightlifting",
+      "muscles": ["partea inferioară a pieptului", "triceps", "umeri"]
+    },
+    {
+      "id": 82,
+      "name": "Împins cu bara orizontal cu priza apropiata ",
+      "type": "weightlifting",
+      "muscles": ["triceps", "piept", "umeri"]
+    },
+    {
+      "id": 83,
+      "name": "Împins cu bara Orizontal cu priză larga",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri"]
+    },
+    {
+      "id": 84,
+      "name": "Împins din înclinat cu bara",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps"]
+    },
+    {
+      "id": 85,
+      "name": "Barbell Floor Press",
+      "type": "weightlifting",
+      "muscles": ["triceps", "piept"]
+    },
+    {
+      "id": 86,
+      "name": "Împins cu bara orizontal cu pauză",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps"]
+    },
+    {
+      "id": 87,
+      "name": "Barbell Pendlay Row",
+      "type": "weightlifting",
+      "muscles": ["spate", "biceps", "umeri posteriori"]
+    },
+    {
+      "id": 88,
+      "name": "Barbell Yates Row",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a spatelui", "biceps"]
+    },
+    {
+      "id": 89,
+      "name": "Kroc Row (Single-Arm Barbell Row)",
+      "type": "weightlifting",
+      "muscles": ["latimi", "biceps", "prindere"]
+    },
+    {
+      "id": 90,
+      "name": "Seal Row",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a spatelui", "umeri posteriori"]
+    },
+    {
+      "id": 91,
+      "name": "Ramat T-Bar ",
+      "type": "weightlifting",
+      "muscles": ["latimi", "mijlocul spatelui", "biceps"]
+    },
+    {
+      "id": 92,
+      "name": "Ramat Landmine ",
+      "type": "weightlifting",
+      "muscles": ["spate", "mușchi abdominali"]
+    },
+    {
+      "id": 93,
+      "name": "Genuflexiune Zercher ",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 94,
+      "name": "Hack Squat (Barbell)",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri"]
+    },
+    {
+      "id": 95,
+      "name": "Genuflexiune Jefferson ",
+      "type": "weightlifting",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 96,
+      "name": "Genuflexiune Anderson  (Pin Squat)",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri"]
+    },
+    {
+      "id": 97,
+      "name": "Genuflexiune Barbell Overhead ",
+      "type": "weightlifting",
+      "muscles": ["umeri", "mușchi abdominali", "picioare"]
+    },
+    {
+      "id": 98,
+      "name": "Genuflexiune Barbell Front  (Clean Grip)",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "mușchi abdominali"]
+    },
+    {
+      "id": 99,
+      "name": "Genuflexiune Barbell Front  (Cross-Arm Grip)",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "mușchi abdominali"]
+    },
+    {
+      "id": 100,
+      "name": "Barbell Safety Bar Squat",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri"]
+    },
+    {
+      "id": 101,
+      "name": "Snatch-Grip Barbell Deadlift",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "partea superioară a spatelui"]
+    },
+    {
+      "id": 102,
+      "name": "Deficit Barbell Deadlift",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "spate"]
+    },
+    {
+      "id": 103,
+      "name": "Barbell Rack Pull",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a spatelui", "fesieri"]
+    },
+    {
+      "id": 104,
+      "name": "Trap Bar Deadlift",
+      "type": "weightlifting",
+      "muscles": ["picioare", "spate"]
+    },
+    {
+      "id": 105,
+      "name": "Stiff-Leg Deadlift",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri"]
+    },
+    {
+      "id": 106,
+      "name": "Barbell Snatch-Grip Romanian Deadlift",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare", "fesieri", "partea superioară a spatelui"]
+    },
+    {
+      "id": 107,
+      "name": "Barbell Behind-the-Neck Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "triceps"]
+    },
+    {
+      "id": 108,
+      "name": "Push Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "picioare", "triceps"]
+    },
+    {
+      "id": 109,
+      "name": "Bradford Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "trapez"]
+    },
+    {
+      "id": 110,
+      "name": "Z-Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "mușchi abdominali"]
+    },
+    {
+      "id": 111,
+      "name": "Cable Chest Fly",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri anteriori"]
+    },
+    {
+      "id": 112,
+      "name": "High Cable Chest Fly",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a pieptului", "umeri anteriori"]
+    },
+    {
+      "id": 113,
+      "name": "Low Cable Chest Fly",
+      "type": "weightlifting",
+      "muscles": ["partea inferioară a pieptului"]
+    },
+    {
+      "id": 114,
+      "name": "Cable Crossover",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri"]
+    },
+    {
+      "id": 115,
+      "name": "Cable Lat Pulldown",
+      "type": "weightlifting",
+      "muscles": ["latimi", "biceps"]
+    },
+    {
+      "id": 116,
+      "name": "Straight-Arm Pulldown",
+      "type": "weightlifting",
+      "muscles": ["latimi", "umeri posteriori"]
+    },
+    {
+      "id": 117,
+      "name": "Cable Row (Seated)",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a spatelui", "biceps"]
+    },
+    {
+      "id": 118,
+      "name": "Single-Arm Cable Row",
+      "type": "weightlifting",
+      "muscles": ["latimi", "biceps"]
+    },
+    {
+      "id": 119,
+      "name": "Face Pull",
+      "type": "weightlifting",
+      "muscles": ["umeri posteriori", "partea superioară a spatelui"]
+    },
+    {
+      "id": 120,
+      "name": "Cable Lateral Raise",
+      "type": "weightlifting",
+      "muscles": ["umeri laterali"]
+    },
+    {
+      "id": 121,
+      "name": "Cable Front Raise",
+      "type": "weightlifting",
+      "muscles": ["umeri anteriori"]
+    },
+    {
+      "id": 122,
+      "name": "Cable Rear Delt Fly",
+      "type": "weightlifting",
+      "muscles": ["umeri posteriori", "partea superioară a spatelui"]
+    },
+    {
+      "id": 123,
+      "name": "Cable Bicep Curl",
+      "type": "weightlifting",
+      "muscles": ["biceps"]
+    },
+    {
+      "id": 124,
+      "name": "Cable Hammer Curl",
+      "type": "weightlifting",
+      "muscles": ["biceps", "brahialis"]
+    },
+    {
+      "id": 125,
+      "name": "Cable Overhead Tricep Extension",
+      "type": "weightlifting",
+      "muscles": ["triceps"]
+    },
+    {
+      "id": 126,
+      "name": "Cable Tricep Pushdown (Rope)",
+      "type": "weightlifting",
+      "muscles": ["triceps"]
+    },
+    {
+      "id": 127,
+      "name": "Cable Woodchopper (High to Low)",
+      "type": "weightlifting",
+      "muscles": ["oblice", "mușchi abdominali"]
+    },
+    {
+      "id": 128,
+      "name": "Cable Woodchopper (Low to High)",
+      "type": "weightlifting",
+      "muscles": ["oblice", "umeri"]
+    },
+    {
+      "id": 129,
+      "name": "Cable Russian Twist",
+      "type": "weightlifting",
+      "muscles": ["oblice", "mușchi abdominali"]
+    },
+    {
+      "id": 130,
+      "name": "Cable Squat to Row",
+      "type": "weightlifting",
+      "muscles": ["picioare", "spate", "mușchi abdominali"]
+    },
+    {
+      "id": 131,
+      "name": "Dumbbell Bench Press (Flat)",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 132,
+      "name": "Împins cu ganterele Înclinat",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a pieptului", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 133,
+      "name": "Dumbbell Decline Press",
+      "type": "weightlifting",
+      "muscles": ["partea inferioară a pieptului", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 134,
+      "name": "Neutral-Grip Dumbbell Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 135,
+      "name": "Fluturări cu ganterele Orizontal",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri anteriori"]
+    },
+    {
+      "id": 136,
+      "name": "Fluturări cu ganterele Înclinat",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a pieptului", "umeri anteriori"]
+    },
+    {
+      "id": 137,
+      "name": "Decline Dumbbell Fly",
+      "type": "weightlifting",
+      "muscles": ["partea inferioară a pieptului", "umeri anteriori"]
+    },
+    {
+      "id": 138,
+      "name": "Dumbbell Pullover",
+      "type": "weightlifting",
+      "muscles": ["piept", "latimi", "triceps"]
+    },
+    {
+      "id": 139,
+      "name": "Single-Arm Dumbbell Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 140,
+      "name": "Rotating Dumbbell Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 141,
+      "name": "Weighted Sled Push",
+      "type": "weighted cardio",
+      "muscles": ["cvadriceps", "fesieri", "mușchi abdominali", "umeri"]
+    },
+    {
+      "id": 142,
+      "name": "Kettlebell Farmer's Carry",
+      "type": "weighted cardio",
+      "muscles": ["antebrațe", "mușchi abdominali", "trapez", "umeri"]
+    },
+    {
+      "id": 143,
+      "name": "Weighted Stair Climbing",
+      "type": "weighted cardio",
+      "muscles": ["cvadriceps", "fesieri", "gambiere"]
+    },
+    {
+      "id": 144,
+      "name": "Sandbag Overhead Carry",
+      "type": "weighted cardio",
+      "muscles": ["umeri", "mușchi abdominali", "triceps"]
+    },
+    {
+      "id": 145,
+      "name": "Weighted Rowing Machine Sprints",
+      "type": "weighted cardio",
+      "muscles": ["spate", "picioare", "brațe", "mușchi abdominali"]
+    },
+    {
+      "id": 146,
+      "name": "Pec Deck Machine",
+      "type": "weightlifting",
+      "muscles": ["piept", "umeri anteriori"]
+    },
+    {
+      "id": 147,
+      "name": "Seated Chest Press Machine",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 148,
+      "name": "Hammer Strength Shoulder Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "triceps"]
+    },
+    {
+      "id": 149,
+      "name": "Lat Pulldown Machine",
+      "type": "weightlifting",
+      "muscles": ["latimi", "biceps", "partea superioară a spatelui"]
+    },
+    {
+      "id": 150,
+      "name": "Seated Row Machine",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a spatelui", "biceps", "umeri posteriori"]
+    },
+    {
+      "id": 151,
+      "name": "Hack Squat Machine",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri"]
+    },
+    {
+      "id": 152,
+      "name": "Leg Press Machine",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri", "coapse posterioare"]
+    },
+    {
+      "id": 153,
+      "name": "Leg Extension Machine",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps"]
+    },
+    {
+      "id": 154,
+      "name": "Seated Leg Curl Machine",
+      "type": "weightlifting",
+      "muscles": ["coapse posterioare"]
+    },
+    {
+      "id": 155,
+      "name": "Hip Abductor Machine",
+      "type": "weightlifting",
+      "muscles": ["fesieri", "coapse externe"]
+    },
+    {
+      "id": 156,
+      "name": "Hip Adductor Machine",
+      "type": "weightlifting",
+      "muscles": ["coapse interne"]
+    },
+    {
+      "id": 157,
+      "name": "Cable Seated Crunch",
+      "type": "weightlifting",
+      "muscles": ["mușchi abdominali"]
+    },
+    {
+      "id": 158,
+      "name": "Smith Machine Bench Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 159,
+      "name": "Smith Machine Squat",
+      "type": "weightlifting",
+      "muscles": ["cvadriceps", "fesieri", "coapse posterioare"]
+    },
+    {
+      "id": 160,
+      "name": "Smith Machine Incline Press",
+      "type": "weightlifting",
+      "muscles": ["partea superioară a pieptului", "triceps", "umeri anteriori"]
+    },
+    {
+      "id": 161,
+      "name": "Sprint Intervals",
+      "type": "cardio",
+      "muscles": ["picioare", "mușchi abdominali"]
+    },
+    {
+      "id": 162,
+      "name": "Weighted Wall Sit",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 163,
+      "name": "Weighted Bear Crawls",
+      "type": "weighted cardio",
+      "muscles": ["mușchi abdominali", "umeri", "picioare", "brațe"]
+    },
+    {
+      "id": 164,
+      "name": "One-Arm Dumbbell Row",
+      "type": "weightlifting",
+      "muscles": ["spate", "biceps", "mușchi abdominali"]
+    },
+    {
+      "id": 165,
+      "name": "Single-Leg Glute Bridge",
+      "type": "bodyweight exercise",
+      "muscles": ["fesieri", "coapse posterioare", "mușchi abdominali"]
+    },
+    {
+      "id": 166,
+      "name": "Weighted Superman Hold",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["spate", "fesieri", "umeri"]
+    },
+    {
+      "id": 167,
+      "name": "Jump Squats",
+      "type": "bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 168,
+      "name": "Kettlebell Goblet Squat",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 169,
+      "name": "Incline Dumbbell Bicep Curl",
+      "type": "weightlifting",
+      "muscles": ["biceps"]
+    },
+    {
+      "id": 170,
+      "name": "Weighted Jump Lunges",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 171,
+      "name": "Smith Machine Squat",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri", "mușchi abdominali"]
+    },
+    {
+      "id": 172,
+      "name": "Smith Machine Bench Press",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 173,
+      "name": "Smith Machine Overhead Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "triceps", "mușchi abdominali"]
+    },
+    {
+      "id": 174,
+      "name": "Smith Machine Hip Thrust",
+      "type": "weightlifting",
+      "muscles": ["fesieri", "coapse posterioare", "mușchi abdominali"]
+    },
+    {
+      "id": 175,
+      "name": "Smith Machine Calf Raise",
+      "type": "weightlifting",
+      "muscles": ["gambiere"]
+    },
+    {
+      "id": 176,
+      "name": "Assisted Pull-Up",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["spate", "biceps", "umeri"]
+    },
+    {
+      "id": 177,
+      "name": "Assisted Dip",
+      "type": "weighted bodyweight exercise",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 178,
+      "name": "Leg Press Machine",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 179,
+      "name": "Hack Squat Machine",
+      "type": "weightlifting",
+      "muscles": ["picioare", "fesieri"]
+    },
+    {
+      "id": 180,
+      "name": "Chest Press Machine",
+      "type": "weightlifting",
+      "muscles": ["piept", "triceps", "umeri"]
+    },
+    {
+      "id": 181,
+      "name": "Dumbbell Shoulder Press",
+      "type": "weightlifting",
+      "muscles": ["umeri", "triceps"]
+    }
+  ]
+}
